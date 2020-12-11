@@ -6,8 +6,7 @@ import org.apache.curator.framework.recipes.leader.LeaderSelectorListenerAdapter
 import session.Client;
 
 /**
- * @author 陈濛
- * @date 2020/12/6 11:11 下午
+ *
  */
 public class LeaderElecetion_Demo {
     public static void main(String[] args) throws InterruptedException {

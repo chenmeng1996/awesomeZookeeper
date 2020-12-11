@@ -9,7 +9,7 @@ import session.Client;
 /**
  * @author 陈濛
  *
- * 分布式计数器
+ * 分布式AtomicInt，实现分布式计数器
  */
 public class AtomicInt_Demo {
 
